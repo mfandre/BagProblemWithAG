@@ -1,0 +1,6 @@
+c:\users\h162524\documents\visual studio 2013\Projects\BagProblemWithAG\BagProblemWithAG\bin\Debug\BagProblemWithAG.exe.config
+c:\users\h162524\documents\visual studio 2013\Projects\BagProblemWithAG\BagProblemWithAG\bin\Debug\BagProblemWithAG.exe
+c:\users\h162524\documents\visual studio 2013\Projects\BagProblemWithAG\BagProblemWithAG\bin\Debug\BagProblemWithAG.pdb
+c:\users\h162524\documents\visual studio 2013\Projects\BagProblemWithAG\BagProblemWithAG\obj\Debug\BagProblemWithAG.csprojResolveAssemblyReference.cache
+c:\users\h162524\documents\visual studio 2013\Projects\BagProblemWithAG\BagProblemWithAG\obj\Debug\BagProblemWithAG.exe
+c:\users\h162524\documents\visual studio 2013\Projects\BagProblemWithAG\BagProblemWithAG\obj\Debug\BagProblemWithAG.pdb
